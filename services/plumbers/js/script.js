@@ -62,3 +62,11 @@ milkSuppliers.forEach((supplier, index) => {
   `;
   container.appendChild(card);
 });
+
+window.addEventListener('load', function() {
+    AOS.init({
+      duration: 800,
+      offset: 100,
+      once: true
+    });
+  });
