@@ -33,3 +33,15 @@
   transform: scale(1.1);
 }
 
+/* Smaller cards on mobile */
+@media (max-width: 576px) {
+  .card {
+    font-size: 0.9rem; /* Slightly smaller text */
+  }
+  .card img {
+    height: 150px;
+    object-fit: cover;
+  }
+}
+
+

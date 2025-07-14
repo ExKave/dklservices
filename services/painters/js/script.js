@@ -46,6 +46,46 @@ const milkSuppliers = [
        "../../assets/images/wallPainting6.jpeg"
     ],
     contact: ["+91 6371453303"]
+  },
+  {
+    name: "Vidyadhar Paints",
+    address: "Nuagan, Dhenkanal",
+    images: [
+       "../../assets/images/wallPainting7.jpg"
+    ],
+    contact: ["+91 9668693999"]
+  },
+  {
+    name: "Bubuna Colouring",
+    address: "Bhata-kateni, Banasingh, Dhenkanal",
+    images: [
+       "../../assets/images/wallPainting8.jpeg"
+    ],
+    contact: ["+91 8658797997"]
+  },
+  {
+    name: "Mohanty Paints (Aravinda)",
+    address: "Derasingh, Dhenkanal",
+    images: [
+       "../../assets/images/wallPainting9.jpeg"
+    ],
+    contact: ["+91 8260600955"]
+  },
+  {
+    name: "Daya Color",
+    address: "Kamagara, Dhenkanal",
+    images: [
+       "../../assets/images/wallPainting10.jpg"
+    ],
+    contact: ["+91 7064212248"]
+  },
+  {
+    name: "Bapi Colouring",
+    address: "Nuagan, Dhenkanal",
+    images: [
+       "../../assets/images/wallPainting11.jpeg"
+    ],
+    contact: ["+91 7853900387"]
   }
 ];
 

@@ -11,9 +11,17 @@ const milkSuppliers = [
     name: "Tulu Plumbing (Kalia)",
     address: "Khalibandha, Tarava, Dhenkanal",
     images: [
-      "../../assets/images/plumber.png"
+      "../../assets/images/plumber1.jpg"
     ],
     contact: ["+91 9692185278"]
+  },
+  {
+    name: "Bidhana Pipes",
+    address: "Godishahi, Nuagan, Dhenkanal",
+    images: [
+      "../../assets/images/plumber2.avif"
+    ],
+    contact: ["+91 9937613449"]
   }
 ];
 
