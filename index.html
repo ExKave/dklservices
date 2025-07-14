@@ -1,21 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+  <!-- Browser header color for Chrome, Edge, Safari -->
+<!-- Browser header color -->
+<meta name="theme-color" content="#212529">
+<!-- Optional: iOS Safari Tab Bar -->
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <!-- Favicon -->
+<link rel="icon" type="image/png" href="assets/logo.png">
+
   <title>Dhenkanal Services</title>
   <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="./style.css" />
   <!-- Bootstrap Icons -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet" />
+
+
+
+
 </head>
 <body>
    <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container">
-            <a class="navbar-brand" href="#">Dhenkanal Services</a>
+        <a class="navbar-brand d-flex align-items-center" href="#">
+            <img src="assets/logo.png" 
+                 alt="MoSathi Logo" 
+                 style="width: 65px; height: 65px; border-radius: 50%; border: 2px solid #fffebf;" 
+                 class="me-2">
+            <div>
+                <div class="fw-bold" style="font-size: 1.5rem;">MoSathi</div>
+                <small style="font-size: 0.75rem; color: rgb(30, 199, 18);">Dhenkanal Services</small>
+            </div>
+        </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -28,6 +54,32 @@
             </div>
         </div>
     </nav>
+<!-- Navbar -->
+<!-- Navbar -->
+<!-- <nav class="navbar navbar-expand-lg shadow-sm" style="background-color: #cfefff; padding: 0.2rem 0;">
+    <div class="container">
+        <a class="navbar-brand d-flex align-items-center" href="#">
+            <img src="assets/logo.png" 
+                 alt="MoSathi Logo" 
+                 style="width: 65px; height: 65px; border-radius: 50%; border: 2px solid #fffebf;" 
+                 class="me-2">
+            <div>
+                <div class="fw-bold text-dark" style="font-size: 1.1rem;">MoSathi</div>
+                <small class="text-muted" style="font-size: 0.75rem;">Dhenkanal Services</small>
+            </div>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item"><a class="nav-link text-dark active" href="#">Home</a></li>
+                <li class="nav-item"><a class="nav-link text-dark" href="#">About</a></li>
+                <li class="nav-item"><a class="nav-link text-dark" href="#">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+</nav> -->
 
 
   <!-- Hero Section -->
@@ -95,17 +147,46 @@
             </div>
           </div>
         </div>
+        <!-- Service Card 5 -->
+        <div class="col-md-3 mb-4">
+          <div class="card h-100 shadow-sm">
+            <img src="assets/carRental.jpg" class="card-img-top" alt="Painters">
+            <div class="card-body text-center">
+              <h5 class="card-title">Car Rental</h5>
+              <a href="services/car_rental/index.html" class="btn btn-primary">Explore</a>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </section>
 
-    <!-- Footer -->
+  <!-- Floating Add Service Button -->
+<a href="https://forms.gle/BA5Zuiw7Ex9BLmRu6" 
+   class="btn btn-primary rounded-circle shadow add-service-btn" 
+   target="_blank" aria-label="Add Service">
+  <i class="bi bi-plus-lg fs-3"></i>
+</a>
+
+
+    <!-- Footer
 <footer class="bg-dark text-white py-4 mt-auto">
     <div class="container text-center">
         <p class="mb-1">&copy; 2025 DKL Services. All Rights Reserved.</p>
         <p class="small">Designed by Bhakti ❤️ | Powered by Bootstrap</p>
     </div>
+</footer> -->
+
+<footer class="bg-dark text-white py-4 mt-auto">
+    <div class="container text-center">
+        <p class="mb-1 fw-bold">MoSathi</p>
+        <p class="small mb-1">Dhenkanal Services & Beyond</p>
+        <p class="small">Designed by Bhakti ❤️</p>
+        <p class="small mb-0">&copy; 2025 All Rights Reserved</p>
+    </div>
 </footer>
+
+
 
   <!-- Bootstrap JS -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>

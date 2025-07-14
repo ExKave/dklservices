@@ -1,5 +1,5 @@
 .card img {
-    height: 200px;
+    height: 275px;
     object-fit: cover;
 }
 
@@ -11,3 +11,25 @@
 .card-text {
     color: #555;
 }
+
+.add-service-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 60px;
+  height: 60px;
+  background-color: #0d6efd; /* Bootstrap primary */
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  z-index: 999;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.add-service-btn:hover {
+  background-color: #0b5ed7; /* Slightly darker on hover */
+  transform: scale(1.1);
+}
+

@@ -31,7 +31,7 @@ const fabricators = [
     {
         name:"Mahalaxmi Doors & Doors (Jitendra)",
         images:[ "../../assets/images/JitanDada.jpg","../../assets/images/JitanDadaVisitingCard.jpg"],
-        contact: ["+91 8327795001", "+91 9778069817"],
+        contact: ["+91 9778069817","+91 8327795001"],
         pricePerDay: "₹600/day",
         mapLink: "https://maps.app.goo.gl/kQeKCMSpHcpXxepr5"
     }
