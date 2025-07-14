@@ -22,6 +22,14 @@ const milkSuppliers = [
       "../../assets/images/wiring3.jpeg"
     ],
     contact: ["+91 9583442749"]
+  },
+  {
+    name: "Bichi Barala Wiring",
+    address: "Derasingh, Dhenkanal",
+    images: [
+      "../../assets/electrician.webp"
+    ],
+    contact: ["+91 9937237753"]
   }
 ];
 

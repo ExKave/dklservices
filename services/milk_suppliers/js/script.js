@@ -14,6 +14,14 @@ const milkSuppliers = [
        "../../assets/images/MilkStock2.png"
     ],
     contact: ["+91 7077005622"]
+  },
+  {
+    name: "Kuna Milk",
+    address: "Tarava, Dhenkanal",
+    images: [
+       "../../assets/images/MilkStock1.jpeg"
+    ],
+    contact: ["+91 9937385180"]
   }
 ];
 

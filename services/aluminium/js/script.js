@@ -34,6 +34,13 @@ const fabricators = [
         contact: ["+91 9778069817","+91 8327795001"],
         pricePerDay: "₹600/day",
         mapLink: "https://maps.app.goo.gl/kQeKCMSpHcpXxepr5"
+    },
+    {
+        name:"Behera Aluminium (Jibana)",
+        images:[ "../../assets/images/alu_stock_img.jpg"],
+        contact: ["+91 9439189611","+91 7978164062"],
+        pricePerDay: "₹600/day",
+        mapLink: "https://maps.app.goo.gl/31bBd2Z5a6anBeuj7"
     }
 ];
 
