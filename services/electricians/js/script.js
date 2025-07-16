@@ -30,6 +30,14 @@ const milkSuppliers = [
       "../../assets/electrician.webp"
     ],
     contact: ["+91 9937237753"]
+  },
+  {
+    name: "Bikash Wiring",
+    address: "Malapura, kamakhyanagar, Dhenkanal",
+    images: [
+      "../../assets/electrician.webp"
+    ],
+    contact: ["+91 7682923203"]
   }
 ];
 

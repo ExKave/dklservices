@@ -22,6 +22,14 @@ const milkSuppliers = [
        "../../assets/images/MilkStock1.jpeg"
     ],
     contact: ["+91 9937385180"]
+  },
+  {
+    name: "Kaira Milks",
+    address: "Khulinga-bahali, Nuagan, Dhenkanal",
+    images: [
+       "../../assets/images/MilkStock1.jpeg"
+    ],
+    contact: ["+91 7978069398"]
   }
 ];
 

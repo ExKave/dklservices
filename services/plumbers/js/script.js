@@ -22,6 +22,14 @@ const milkSuppliers = [
       "../../assets/images/plumber2.avif"
     ],
     contact: ["+91 9937613449"]
+  },
+  {
+    name: "Manu Pipes",
+    address: "Mandapala, Khamar, Dhenkanal",
+    images: [
+      "../../assets/images/plumber2.avif"
+    ],
+    contact: ["+91 9861183755"]
   }
 ];
 

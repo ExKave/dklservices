@@ -45,6 +45,24 @@ const carRenters = [
       "../../assets/images/stockauto3.avif",
     ],
     contact: ["+91 9777220983"]
+  },
+  {
+    name: "Dipu Auto",
+    address: "Sana Baulapur, Dhenkanal",
+    vehicles: ["Auto"],
+    images: [
+      "../../assets/images/stockauto3.avif",
+    ],
+    contact: ["+91 6370422022"]
+  },
+  {
+    name: "Mangulu Cars",
+    address: "Marichiakana, Tumusingha, Dhenkanal",
+    vehicles: ["Bolero"],
+    images: [
+      "../../assets/images/stockauto3.avif",
+    ],
+    contact: ["+91 9937622061"]
   }
 
 ];

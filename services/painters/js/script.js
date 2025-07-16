@@ -86,6 +86,86 @@ const milkSuppliers = [
        "../../assets/images/wallPainting11.jpeg"
     ],
     contact: ["+91 7853900387"]
+  },
+  {
+    name: "Chintu Paints",
+    address: "Derasingh, Dhenkanal",
+    images: [
+       "../../assets/images/wallPainting11.jpeg"
+    ],
+    contact: ["+91 9668417513"]
+  },
+  {
+    name: "Rakesh Paints",
+    address: "Nuagan, Dhenkanal",
+    images: [
+       "../../assets/images/wallPainting11.jpeg"
+    ],
+    contact: ["+91 9668448457"]
+  },
+  {
+    name: "Niranjana Colouring",
+    address: "Derasingh, Dhenkanal",
+    images: [
+       "../../assets/images/wallPainting11.jpeg"
+    ],
+    contact: ["+91 9938462287"]
+  },
+  {
+    name: "Susa Colouring Service",
+    address: "Nuagan, Dhenkanal",
+    images: [
+       "../../assets/images/wallPainting11.jpeg"
+    ],
+    contact: ["+91 7683830560"]
+  },
+  {
+    name: "Kishor Paints",
+    address: "Nuagan, Dhenkanal",
+    images: [
+       "../../assets/images/wallPainting11.jpeg"
+    ],
+    contact: ["+91 6370075435"]
+  },
+  {
+    name: "Kapisa Colouring",
+    address: "Nuagan, Dhenkanal",
+    images: [
+       "../../assets/images/wallPainting11.jpeg"
+    ],
+    contact: ["+91 6370815083"]
+  },
+  {
+    name: "Bidei Colouring",
+    address: "Nuagan, Dhenkanal",
+    images: [
+       "../../assets/images/wallPainting11.jpeg"
+    ],
+    contact: ["+91 9668693999"]
+  },
+  {
+    name: "Anil Naik Paints",
+    address: "Derasingh, Dhenkanal",
+    images: [
+       "../../assets/images/wallPainting11.jpeg"
+    ],
+    contact: ["+91 8260569937"]
+  },
+  {
+    name: "Chandana Biswal Colouring",
+    address: "Derasingh, Dhenkanal",
+    images: [
+       "../../assets/images/wallPainting11.jpeg"
+    ],
+    contact: ["+91 8144403035"]
+  },
+  {
+    name: "Sibu Barala Colouring",
+    address: "Derasingh, Dhenkanal",
+    images: [
+       "../../assets/images/wallPainting11.jpeg"
+    ],
+    contact: ["+91 8018688661"]
   }
 ];
 
